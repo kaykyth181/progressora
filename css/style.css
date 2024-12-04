@@ -38,7 +38,10 @@
     /* --cor-transparente: rgba(0,255,0, 0.5); */
 }
 
-
+/* eu */
+.img-fluidrounded-circl{
+    border-radius: 10%;
+}
 
 
 /* CSS Principal */
